@@ -41,7 +41,7 @@ https://fonts.google.com/ <br><br>
 [DevGames]<br>
 http://flexboxfroggy.com/#de <br><br>
 
-[Useful API's / Frameworks etc.]
+[Useful API's / Frameworks etc.] <br>
 https://api.jquery.com/ <br>
 https://github.com/jasmine/jasmine <br>
 http://www.turnjs.com/# <br>

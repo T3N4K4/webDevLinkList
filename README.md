@@ -62,3 +62,23 @@ https://developer.wordpress.org/plugins/intro/ <br>
 [PHP]<br>
 https://www.php-fig.org/ <br>
 https://www.youtube.com/watch?v=76klsIBDlww <br>
+
+[Settings / Addons / Plugins] VStudio<br>
+- Bracket Pair Colorizer<br>
+- ES7 React/Redux/GraphQL/React-Native snippets<br>
+- Live Server (If you do not use Node.js)<br>
+- Material Icon Theme<br>
+- Prettier - Code formatter<br>
+
+{<br>
+    "workbench.iconTheme": "material-icon-theme",<br>
+    "editor.formatOnSave": true,<br>
+    "prettier.singleQuote": true,<br>
+    "emmet.includeLanguages": {<br>
+        "javascript": "javascriptreact"<br>
+    },<br>
+    "emmet.syntaxProfiles": {<br>
+        "javascript": "jsx",<br>
+        "javascript": "html"<br>
+    }v
+}<br>

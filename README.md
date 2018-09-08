@@ -30,6 +30,7 @@ http://javascript.info/ <br>
 http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/ <br>
 https://medium.com/sungthecoder/javascript-module-module-loader-module-bundler-es6-module-confused-yet-6343510e7bde <br>
 https://blog.codeship.com/jasmine-spyon/ <br>
+https://mead.io/formik/ <br>
 
 [Browser Support]<br>
 https://www.w3schools.com/cssref/css3_browsersupport.asp <br>
@@ -82,3 +83,9 @@ https://www.youtube.com/watch?v=76klsIBDlww <br>
         "javascript": "html"<br>
     }v
 }<br>
+<br>
+[Security]<br>
+https://mead.io/yarn/ <br>
+
+[Testing]<br>
+https://mead.io/eslint/ <br>

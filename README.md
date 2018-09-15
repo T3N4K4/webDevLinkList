@@ -89,3 +89,8 @@ https://mead.io/yarn/ <br>
 
 [Testing]<br>
 https://mead.io/eslint/ <br>
+
+[News]<br>
+https://softwareengineeringdaily.com/<br>
+http://www.se-radio.net/<br>
+

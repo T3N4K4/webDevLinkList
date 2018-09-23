@@ -31,6 +31,7 @@ http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/ <br>
 https://medium.com/sungthecoder/javascript-module-module-loader-module-bundler-es6-module-confused-yet-6343510e7bde <br>
 https://blog.codeship.com/jasmine-spyon/ <br>
 https://mead.io/formik/ <br>
+https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176 <br>
 
 [Browser Support]<br>
 https://www.w3schools.com/cssref/css3_browsersupport.asp <br>
